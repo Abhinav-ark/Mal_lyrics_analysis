@@ -40,6 +40,7 @@ Malayalam music is a vibrant tapestry of culture, emotions, and artistic express
 
 6. **Data Verification and Cleanup**:
    - The project continues to check and clean the data, ensuring the changes are applied consistently.
+   - Edge cases are carefully considered and worked upon.
 
 
 The primary goal of this project appears to be to process and clean the text data in the 'വരികൾ' column, specifically focusing on lines with repeating patterns or variations, and then preparing the dataset for further analysis or research related to Malayalam song lyrics. The methodology involves data cleaning, text pattern recognition, and iterative data transformations to enhance the quality of the dataset for future analysis.
